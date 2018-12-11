@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_controle"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/titulo_controle" />
+
+    <item
+        android:id="@+id/navigation_registros"
+        android:icon="@drawable/ic_registros_24dp"
+        android:title="@string/titulo_registros" />
+
+    <item
+        android:id="@+id/navigation_sobre"
+        android:icon="@drawable/ic_sobre_24dp"
+        android:title="@string/titulo_sobre" />
+
+</menu>

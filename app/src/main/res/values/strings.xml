@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Casa Automatizada</string>
+    <string name="titulo_controle">Controle</string>
+    <string name="titulo_registros">Registros</string>
+    <string name="titulo_sobre">Sobre</string>
+
+    <string name="framento_controle">Fragmento controle</string>
+    <string name="framento_registros">Fragmento registros</string>
+    <string name="framento_sobre">Fragmento Sobre</string>
+
+
+    <string name="sala">Sala</string>
+    <string name="cozinha">Cozinha</string>
+
+    <string name="enderecoIP">Digite o IP</string>
+    <string name="salvar">Salvar</string>
+    <string name="configuracao">Configuração</string>
+
+
+    <string name="luz_sala">Sala</string>
+    <string name="luz_cozinha">Cozinha</string>
+    <string name="luz_quarto1">Quarto frente</string>
+    <string name="luz_quarto2">Quarto fundo</string>
+    <string name="luz_banheiro">Banheiro</string>
+    <string name="luz_garagem">Garagem</string>
+    <string name="luz_festa">Festa</string>
+
+
+
+    <string name="tomada_sala">Tomada Sala</string>
+    <string name="tomada_cozinha">Tomada Cozinha</string>
+
+    <string name="ligado">Ligado</string>
+    <string name="desligado">Desligado</string>
+
+
+    <string name="curso">Sitemas de Informação</string>
+    <string name="obejetivoApp">Trabalho desenvolvido na disciplina de TE SI</string>
+    <string name="desenvolvedor">Desenvolvedores</string>
+    <string name="dev1">Rafael Oliveira  RA: 00181135</string>
+    <string name="dev2">Paulo Franco  RA:00178576</string>
+    <string name="dev3">Weslley Bonifacio Alcantara  RA: 00179836</string>
+    <string name="dev4">Lucas Henrique da Costa  RA:00179271 </string>
+
+
+
+</resources>

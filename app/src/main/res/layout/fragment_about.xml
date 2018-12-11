@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="rafael.controlhome.controller.fragment.FragmentAbout">
+
+
+    <LinearLayout
+        android:id="@+id/layoutInfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/Curso"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:text="@string/curso"
+            />
+
+        <TextView
+            android:id="@+id/textViewObjetivo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:textAlignment="center"
+            android:text="@string/obejetivoApp"
+            android:paddingBottom="30dp"/>
+
+        <TextView
+            android:id="@+id/textViewDesenvolvedor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:textAlignment="center"
+            android:text="@string/desenvolvedor"
+            android:layout_marginTop="15dp"
+            android:paddingBottom="0dp"/>
+
+        <TextView
+            android:id="@+id/textViewDev1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:text="@string/dev1"
+            android:layout_marginTop="16dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/textViewDev2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:text="@string/dev2"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/textViewDev3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:text="@string/dev3"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/textViewDev4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:text="@string/dev4"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
